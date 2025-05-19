@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk"
+  },
+  "hero": {
+    "title": "DevOps, Cloud & Automation for Scalable Digital Products",
+    "subtitle": "I help companies design and automate reliable, secure, and scalable infrastructure using AWS, Kubernetes, and CI/CD best practices.",
+    "role": "DevOps Engineer | Cloud Architect (AWS/Azure)",
+    "cta": {
+      "work": "Let's Work Together",
+      "cv": "Download CV",
+      "cvEnglish": "Download CV (English)",
+      "cvGerman": "Download CV (German)"
+    },
+    "workedWith": "Worked with:"
+  },
+  "services": {
+    "title": "My Services",
+    "subtitle": "Specialized expertise to help your business build reliable, secure, and scalable cloud infrastructure",
+    "items": {
+      "cloud": {
+        "title": "Cloud Infrastructure Setup",
+        "description": "Secure, scalable cloud environments built with industry best practices",
+        "items": [
+          "Design AWS multi-account landing zones",
+          "Set up VPCs, IAM roles, ALB/NLB, S3, RDS",
+          "Security/compliance hardening",
+          "Cost optimization strategies"
+        ]
+      },
+      "cicd": {
+        "title": "CI/CD Pipeline Automation",
+        "description": "Streamlined development workflows for faster, more reliable deployments",
+        "items": [
+          "GitLab CI/CD, Jenkins, ArgoCD",
+          "Deploy containerized apps to EKS/Kubernetes",
+          "Static analysis, Trivy, SonarQube integration",
+          "Automated testing and deployment"
+        ]
+      },
+      "kubernetes": {
+        "title": "Kubernetes Operations",
+        "description": "Expert container orchestration for modern application deployment",
+        "items": [
+          "Helm charts, autoscaling, cost efficiency",
+          "Monitoring via Prometheus/Grafana",
+          "Disaster recovery planning",
+          "Performance optimization"
+        ]
+      },
+      "iac": {
+        "title": "Infrastructure as Code",
+        "description": "Version-controlled, repeatable infrastructure deployments",
+        "items": [
+          "Terraform, Ansible, AWS CDK",
+          "Automate everything — consistent, testable deployments",
+          "GitOps workflows",
+          "Documentation and best practices"
+        ]
+      },
+      "coaching": {
+        "title": "DevOps Coaching / Audit",
+        "description": "Elevate your team's DevOps capabilities with expert guidance",
+        "items": [
+          "1–2 week engagements to train internal teams",
+          "Full audit of existing pipelines or cloud infra",
+          "Best practices implementation",
+          "Knowledge transfer workshops"
+        ]
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Case Studies",
+    "subtitle": "Here are some of the projects I've delivered for clients with measurable results",
+    "problem": "Problem",
+    "solution": "Solution",
+    "result": "Result",
+    "technologies": "Technologies",
+    "cases": {
+      "notificationCenter": {
+        "title": "Notification Center",
+        "company": "Volkswagen DSP",
+        "problem": "Needed scalable cloud-based alerting system for multiple teams and services",
+        "solution": "Built notification microservice with Scala, AWS, Kubernetes, Docker, and ArgoCD with sophisticated alerting logic",
+        "result": "Reduced downtime by 35%, enabled realtime alerts for 500+ users across the organization"
+      },
+      "awsMigration": {
+        "title": "AWS Infrastructure Migration",
+        "company": "KSB",
+        "problem": "Costly monolithic architecture with security vulnerabilities and limited scalability",
+        "solution": "Migrated to AWS with IaC (Terraform), CI/CD via GitLab, managed 500+ developers' cloud access",
+        "result": "Cut AWS costs by 20%, boosted deployment speed by 3x, improved security posture"
+      },
+      "fleetexecutor": {
+        "title": "Fleetexecutor Map Portal",
+        "company": "Porsche",
+        "problem": "Needed real-time monitoring system for automated guided vehicles (AGVs)",
+        "solution": "Led design and development of map portal using React, AWS, and real-time data processing",
+        "result": "Enabled real-time monitoring of fleet operations, improving efficiency and response times"
+      }
+    },
+    "openSource": {
+      "title": "Open Source Projects",
+      "devDash": {
+        "title": "DevDash: Developer Dashboard CLI",
+        "description": "A CLI tool for monitoring and managing developer resources. DevDash integrates with GitHub, Jenkins, GitLab, and Kubernetes to efficiently manage CI/CD pipelines and resources.",
+        "viewOnGithub": "View on GitHub"
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm Shramish Kafle, a DevOps Engineer based in Germany with a passion for cloud automation and infrastructure scalability. Over the past 5 years, I've helped industry leaders like Porsche, MHP, and KSB build secure, efficient, and scalable systems.",
+    "sections": {
+      "certifications": "Certifications",
+      "expertise": "Technical Expertise",
+      "education": "Education",
+      "languages": "Languages"
+    }
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Here's what others say about working with me"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Ready to modernize your cloud infrastructure or automate your DevOps pipeline? Let's talk.",
+    "form": {
+      "title": "Send a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location"
+    },
+    "connect": {
+      "title": "Connect With Me"
+    },
+    "consultation": {
+      "title": "Want a free consultation?",
+      "description": "Schedule a 30-minute call to discuss your cloud infrastructure or DevOps pipeline needs.",
+      "cta": "Schedule a Call"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
